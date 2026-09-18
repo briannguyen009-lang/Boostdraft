@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+.sites-runtime
+.lunar-deck-build/
+output/
+.vercel/
+.env
+.env.*
+!.env.example
